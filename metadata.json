@@ -1,0 +1,6 @@
+{
+  "name": "Muthumani & Preethi Engagement",
+  "description": "Elegant digital engagement invitation for Muthumani and Preethi featuring a countdown, location map, and background music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
